@@ -1,0 +1,1 @@
+document.writeln("hello World (this file in folder /script)");
