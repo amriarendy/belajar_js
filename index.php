@@ -362,6 +362,30 @@
 		document.writeln(`<p>${Number("1.1ups")}</p>`); // NaN
 		document.writeln(`<p>${Number("1x")}</p>`); // NaN
 		document.writeln(`<p>${Number("bukan number")}</p>`); // NaN
+
+		//Conth Operasi Pada Nan
+		document.writeln("Contoh Operasi Pada NaN");
+		const valueNaN = Number("salah"); //NaN
+		const totalNaN = valueNaN + 100;
+		document.writeln(`<p>${totalNaN}</p>`);
+
+		// isNaN() Function
+		// Kadang kita ingin mengecek apakah sebuah number itu NaN atau bukan.
+		// Untuk melakukan pengecekan tersebut, kita bisa menggunakan function isNaN(Number).
+		// Hasilnya adalah berupa data booblean, true jika NaN, false jika bukan.
+		document.writeln("Contoh isNaN() Function");
+		document.writeln(`<p>${isNaN(NaN)}</p>`);
+		document.writeln(`<p>${isNaN(1000)}</p>`);
+
+	</script>
+
+	<strong>Tipe Data Array Dasar</strong><br>
+	<script>
+		document.writeln("Untuk operasi console bisa dilihat di inspect>console");
+		console.info("Tipe Data Array Dasar");
+
+		// Array adalah tipe data yang berisikan kumpulan data.
+		// Array di JavaScript memiliki sifat dinamis, artinya datanya bisa bertambah dengan sendirinya saat kita masukan data ke dalam Array.
 	</script>
 </body>
 </html>
