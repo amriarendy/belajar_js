@@ -386,6 +386,22 @@
 
 		// Array adalah tipe data yang berisikan kumpulan data.
 		// Array di JavaScript memiliki sifat dinamis, artinya datanya bisa bertambah dengan sendirinya saat kita masukan data ke dalam Array.
+
+		// Kode menambah array
+
+		let arrayKosong = [];
+		let arrayNama = ["Amria", "Rendy", "Desbintra"];
+
+		// Cara data di array akan disimpan dalam posisi berurutan, dimana urutan pertama dimulai dari nomor 0.
+		// Setiap kita menambah data ke Array, otomatis data akan disimpan di urutan terakhir.
+		// Urutan di array, kita sebut dengan index.
+		// Perintah untuk
+
+		const namesArray = [];
+		namesArray.push("Amria");
+		namesArray.push("Rendy", "Desbintra");
+
+		console.table(namesArray);
 	</script>
 </body>
 </html>
