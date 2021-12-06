@@ -427,9 +427,43 @@
 		console.table(namesArray);
 		console.info("Menghapus array value");
 
+		// Perlu Diingat
+		// Data di dalam array tidak ada batasannya harus data apa.
+		// Jadi kita bisa memasukan data apapun ke dalam array.
+		// Bahkan kita juga bisa memasukan array ke dalam array jika kita mau.
+
 		namesArray.push("Ini pengganti yang dihapus array index[2]");
 		console.table(namesArray);
 		console.info("Mengganti index array value");
+
+		namesArray.push(1,2,3,4);
+		console.table(namesArray);
+		console.info("Memasukan data selain string");
+
+		namesArray.push(1,2,3,4);
+		namesArray.push(["amria", "rendy", "desbintra"]);
+		console.table(namesArray);
+		console.info("Memasukan array kedalam array");
 	</script>
+
+	<strong>Tipe Data Objek</strong><br>
+	<script>
+
+		document.writeln("Untuk operasi console bisa dilihat di inspect>console");
+		console.info("Tipe Data Objek");
+		// Dibahasa pemrograman lain seperti PHP, kita bisa menggunakan index berubah data lain selain numberm misal string.
+		// Fitur ini biasanya disebut associative array atau hash
+		// Di JavaScript associative array tidak didukung.
+		// Jika kita memaksa memasukan data bukan number di index array, maka JavaScript akan merubah tipe data array tersebut menjadi object, dan ini bisa berbahaya, karena beberapa operasi di arrau mungkin bisa berubah hasilnya
+
+		// Tipe data objek adalah tipe data yang mirip dengan tipe data array
+		// Yang membedakan adalah index pada tipe data objek bisa menggunakan string
+		// Index di objek biasanya disebut attributes atau properties, bukan index.
+
+		const person = {};
+		
+
+
+	</script><br><br>
 </body>
 </html>
