@@ -448,7 +448,6 @@
 
 	<strong>Tipe Data Objek</strong><br>
 	<script>
-
 		document.writeln("Untuk operasi console bisa dilihat di inspect>console");
 		console.info("Tipe Data Objek");
 		// Dibahasa pemrograman lain seperti PHP, kita bisa menggunakan index berubah data lain selain numberm misal string.
