@@ -13,7 +13,6 @@
 		// ternery operator terdiri dari kondisi yang dievaluasi, jika true maka nilai pertama diambil, jika false, maka nilai kedua diambil.
 
 		// kode tanpa ternary operator
-
 		const nilai = 75;
 		let ucapan;
 
@@ -23,6 +22,12 @@
 			ucapan = "Silahkan Coba Lagi";
 		}
 		document.writeln("ini tanpa ternary operator");
+		document.writeln(`<p>${ucapan}</p>`);
+
+		// kode dengan ternary operator
+
+		ucapan = nilai >= 75? "Selamat anda lulus" : "Silahkan coba lagi";
+		document.writeln("ini dengan ternary operator");
 		document.writeln(`<p>${ucapan}</p>`);
 	</script><br><br>
 </body>
