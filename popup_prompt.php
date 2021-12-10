@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Popup Alert</title>
+	<meta charset="utf-8">
+	<title>Popup Prompt</title>
 </head>
 <body>
 	<strong><strong><br>
@@ -14,6 +15,7 @@
 		// Sedangankan confirm digunakan input boolean dari pengguna browser dalam bentuk popup input pilihan.
 
 		//popup alert
+		const name = prompt("Siapa Nama Anda?");
 		alert("selamat belajar");
 	</script><br><br>
 </body>

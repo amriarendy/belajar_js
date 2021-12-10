@@ -13,8 +13,9 @@
 		// Prompt digunakan untuk meminta input string dari pengguna browser dalam benntu popup input text
 		// Sedangankan confirm digunakan input boolean dari pengguna browser dalam bentuk popup input pilihan.
 
-		//popup alert
-		alert("selamat belajar");
 	</script><br><br>
+	<a href="popup_alert.php">Alert</a>
+	<a href="popup_prompt.php">Prompt</a>
+	<a href="popup_confirm.php">Confrim</a>
 </body>
 </html>

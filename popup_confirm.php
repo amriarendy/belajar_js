@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Popup Alert</title>
+	<title>Popup Confirm</title>
 </head>
 <body>
 	<strong><strong><br>
@@ -14,7 +14,14 @@
 		// Sedangankan confirm digunakan input boolean dari pengguna browser dalam bentuk popup input pilihan.
 
 		//popup alert
-		alert("selamat belajar");
+		const masuk = confirm("Anda yakin mau masuk?");
+		if (masuk) {
+			const name = prompt("siapa nama anda");
+			alert(`Hello ${name}`);
+		} else {
+			alert("selamat belajar");
+		}
+		
 	</script><br><br>
 </body>
 </html>
