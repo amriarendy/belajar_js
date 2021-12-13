@@ -19,11 +19,12 @@
 			document.writeln(`<p>perulangan ke ${counter}</p>`);
 			counter++;
 
-			if (counter > 10) {
+			if (counter > 8) {
 				break;
 			}
 		}
-		
+
 	</script><br><br>
+	<a href="continue_dan_break.php">continue_dan_break</a>
 </body>
 </html>

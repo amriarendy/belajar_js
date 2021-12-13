@@ -18,6 +18,11 @@
 			document.writeln(`<p>Perulagan ke ${counter}</p>`);
 			counter++;
 		}
+
+		// With Statement Tidak Direkomendasikan
+		// walaupu fitur with statement ini sangat menarik.
+		// namun kebanyakan orang tidak merekomendasikan penggunaan with statement.
+		// hal ini dikarenakan with statement kadang membuat sebuah kode menjadi ambigu.
 		
 	</script><br><br>
 </body>
