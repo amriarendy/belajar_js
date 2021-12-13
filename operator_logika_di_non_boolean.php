@@ -22,8 +22,22 @@
 		console.info("0" || "NOL"); // "0"
 		console.info(0 || "NOL"); // NOL
 		console.info("null" || "NULL"); // NULL
-		console.info("UNDEFINED" || "UNDEFINED"); // NULL
-		
+		console.info("undefined" || "UNDEFINED"); // NULL
+		console.info(0 || false);
+
+		const person = {
+			firstName = "Amria"
+			lastName + "Rendy"
+		};
+
+		const name = person.firstName || person.lastName;
+		console.info(name);
+
+		// Operator AND (&&) di Non Boolean
+		// operator logika AND (||), membaca dari kiri ke kanan.
+		// operator ini akan mengambil nilai pertama yang falsy
+		// kjika tidak ada satupun yang bernilai falsy, maka yang terakhir yang akan diambil.
+
 	</script><br><br>
 </body>
 </html>
