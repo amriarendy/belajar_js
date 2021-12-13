@@ -50,8 +50,20 @@
 
 		function isContains(array, searchValue)
 		{
-
+			for (const element of array) {
+				console.info(`Iterasi Element ${element}`);
+				if (element === searchValue) {
+					return true;
+				}
+			}
+			return false;
 		}
+
+		const array = [1, 515, 12, 123, 11, 12, 5, 6, 97];
+		const search = 10;
+		const found = isContains(array, search);
+		document.writeln(`<p>${found}</p>`);
+		// console.info(isContains([1, 2, 3, 4, 5, 6, 7, 8, 9, 10], 5));
 	</script><br><br>
 </body>
 </html>
