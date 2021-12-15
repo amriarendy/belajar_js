@@ -6,9 +6,9 @@
 <body>
 	<strong>Operator Logika</strong><br>
 	<script>
-		// Operator logika adalah operator untuk dua buat data boolean
-		// Hasil dari operator logika adalah boolean
-		// Operator logika biasanya digunakan untuk operasi boolean
+		// Operator logika adalah operator untuk dua buat data boolean.
+		// Hasil dari operator logika adalah boolean.
+		// Operator logika biasanya digunakan untuk operasi boolean.
 
 		// Operator && => Dan
 		// 1 && 1 =1

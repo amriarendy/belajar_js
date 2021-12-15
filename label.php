@@ -21,7 +21,7 @@
 			for (let j = 0; j < 100; j++) {
 				if (j > 10){
 					continue;
-					// continue loopi; // jika mau di bagian loopi yang mau digunakan.
+					// continue loopi; // jika mau di bagian loopi yang mau digunakan. 
 				}
 				console.info(`${i} - ${j}`);
 			}

@@ -9,7 +9,7 @@
 		document.writeln("Untuk operasi console bisa dilihat di inspect>console");
 		console.info("Tipe Data Objek");
 
-		// nullist value adalah null dan undefined.
+		// nullist value adalah null dan undefined. 
 		// nullist coalescing operator (??) adalah operator mirip dengan ternary operator, yang membedakan adalah pada kondisim jka bernilai null atau undefinde, baru value defaultnya di ambil.
 
 		let parameter;

@@ -7,7 +7,7 @@
 	<strong><strong><br>
 	<script>
 
-		// Falsy
+		// Falsy 
 		// falsy atau kadang dtulis falsey, adalah value yang ketika dalam konteks boolean, dia dianggap false.
 		// ini adalah salah satu unik dari JavaScript, yang berguna, namun kadang juga sering membingungkan.
 		// jadi di javascript, kondisi itu tudak hanya bisa boolean, tapi dilar boolean pun bisa, namun kita harus tahu beberpa data falsy, atau dianggap falash'

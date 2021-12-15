@@ -9,7 +9,7 @@
 		document.writeln("Untuk operasi console bisa dilihat di inspect > console");
 		console.info("Function Optional Parameter");
 
-		// Optional Parameter
+		// Optional Parameter 
 		// secara default, parameter di function itu optional.
 		// artinya kita tidak wajib mengisi valuenya ketika memanggil function.
 		// jika tidak ada value yang kita kirim ke parameter ketika memanggul function, maka secara otomatis parameter tersebut bernilai undefined.

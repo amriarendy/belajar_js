@@ -6,6 +6,7 @@
 <body>
 	<strong><strong><br>
 	<script>
+		
 		document.writeln("Untuk operasi console bisa dilihat di inspect>console");
 		console.info("Alert, Prompt dan Confirm");
 		// JavaScript memiliki fitu yang bernama alert, prompt dan confirm.

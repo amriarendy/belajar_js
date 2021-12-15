@@ -9,7 +9,7 @@
 		document.writeln("Untuk operasi console bisa dilihat di inspect > console");
 		console.info("Function Return Value");
 
-		// Function Return Value
+		// Function Return Value 
 		// secara default, function itu tidak menghasilkan value apapun, namun jika kita ingin, kita bisa membuat sebuah function mengembalikan value.
 		// agar function bisa menghasilkan value, kita bisa menggunakan kata kunci return di dalam functionnya.
 		// dan didalam block functin, untuk menghasilkan nilai tersebut, kita harus menggunakan kata kunci return, lalu diikuti dengan data yang ingin kita hasilkan.

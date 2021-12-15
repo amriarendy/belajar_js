@@ -10,7 +10,7 @@
 		console.info("If Expression");
 		// Dalam JavaScript, if adalah salah satu satu kata kunci yang digunakan untuk percabangan.
 		// Percabangan artinya kita bisa mengeksekusi kode program tertentu ketika suatu kondisi terpenuhi.
-		// Hampir di semua bahasa pemrograman mendukung if expression
+		// Hampir di semua bahasa pemrograman mendukung if expression.
 
 		const examValue = 70;
 

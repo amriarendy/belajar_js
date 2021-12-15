@@ -8,7 +8,7 @@
 	<script>
 		document.writeln("Untuk operasi console bisa dilihat di inspect>console");
 		console.info("NaN");
-		// Bagaimana jika ternyata data string yang kita coba konversi ke number bukanlah data yang valid>.
+		// Bagaimana jika ternyata data string yang kita coba konversi ke number bukanlah data yang valid.
 		// Jika data string yang kita coba lakukan konversi bukan lah data valid, maka hasil dari konversi tersebut adalah NaN (Not a Number).
 		// NaN adalah number spesial yang menyebutkan bahwa ini bukanlah number.
 		// Jika NaN dioperasikan dengan data number lainya, maka hasilknya akan menjadi NaN lagi.

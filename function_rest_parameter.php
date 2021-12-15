@@ -9,7 +9,7 @@
 		document.writeln("Untuk operasi console bisa dilihat di inspect > console");
 		console.info("Rest Parameter");
 
-		// Rest Parameter
+		// Rest Parameter 
 		// rest parameter adalah fitur dimana kita bisa mengirim data sebanyak-banyaknya pada satu parameter, dan secara otomatis akan di konversi menjadi array.
 		// untuk membuat rest parameter, ada ketentuannya.
 		// rest parametre hanya boleh ada satu di function, tidak boleh lebih dari satu.

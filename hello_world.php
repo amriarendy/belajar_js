@@ -6,7 +6,7 @@
 <body>
 	<strong>Printf di JS</strong><br>
 	<script>
-		document.writeln("Hello World");
+		document.writeln("Hello World"); 
 	</script><br><br>
 </body>
 </html>

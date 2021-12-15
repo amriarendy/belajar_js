@@ -6,7 +6,7 @@
 <body>
 	<strong>Operator Aritmatika</strong><br>
 	<script>
-		// + => Pertambahan => Tambah
+		// + => Pertambahan => Tambah 
 		// - => Pengurangan => Kurang
 		// * => Perkalian => Kali
 		// ** => Exponesial => Pangkat

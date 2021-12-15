@@ -9,7 +9,7 @@
 		document.writeln("Untuk operasi console bisa dilihat di inspect>console");
 		console.info("Function");
 
-		// Function
+		// Function 
 		// blok kode perogram yang akan berjalan saat kita panggil.
 		// sebelumnya kita sudah menggunakan function writeln() untuk menampikan tulisan di html.
 		// untuk membuat function, kita bisa menggunkan kata kunci function, lalu diikuti dengan nama functino, kurung() dan akhiri dengan block kurung {}

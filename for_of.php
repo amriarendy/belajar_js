@@ -9,7 +9,7 @@
 		document.writeln("Untuk operasi console bisa dilihat di inspect>console");
 		console.info("For Of");
 
-		// For Of
+		// For Of 
 		// jika for in digunakan untuk melakukan iterasi property atau index, berbeda dengan For Of, ini digunakan untk melakukan iterasi terhadap isi value dari iterable object, seperti array, string dan lain-lain.
 		// for of tidak bisa digunakan untuk melakukn iterasi data di object, karena object bukanlah iterable
 

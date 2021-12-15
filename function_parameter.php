@@ -9,7 +9,7 @@
 		document.writeln("Untuk operasi console bisa dilihat di inspect > console");
 		console.info("Function Parameter atau Argument");
 
-		// Function Parameter
+		// Function Parameter 
 		// kita bisa mengirim informasi ke function yang ingin kita panggil.
 		// untuk melakukan hal tersebut, kita perlu menambahkan parameter atau argument di function yang sudah kita buat.
 		// parameter ditempatkan di dalam kurung () di deklarasi method.

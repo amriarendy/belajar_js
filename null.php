@@ -9,7 +9,7 @@
 		document.writeln("Untuk operasi console bisa dilihat di inspect>console");
 		console.info("Null Pada JavaScript");
 
-		// null merupakan representasi data kosong.
+		// null merupakan representasi data kosong. 
 		// null berbeda dengan undefined, null berarti variable sudah ditambahkan valuenya, hanya saja valuenya null.
 		// sedangkan undefined adalah variable belum ditambahkan value apapun.
 

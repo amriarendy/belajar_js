@@ -18,7 +18,7 @@
 		// == => Sama dengan.
 		// === => Sama dengan dan sama tipe.
 		// != => Tidak sama dengan.
-		// !== => Tidak sama dengan atau tidak sama tipe
+		// !== => Tidak sama dengan atau tidak sama tipe.
 
 		let resutlPerbandingan = 5 > "5";
 		document.writeln("<p>" + resutlPerbandingan + "</p>");

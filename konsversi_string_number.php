@@ -16,7 +16,7 @@
 		// parseFloat(string) => Mengkonversi dari string ke number (Bilangan pecahan).
 		// Number(string) => Mengkonversi dari string ke number (Bilangan bulat atau pecahan).
 		// number.toString() => Mengkonversi dari number ke string.
-
+		
 		// Contoh 1
 		const valueKonversi1 = parseInt("1");
 		const valueKonversi2 = 1;

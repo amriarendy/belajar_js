@@ -10,7 +10,7 @@
 		console.info("For Loop");
 
 
-		// For Loop
+		// For Loop 
 		// for adalah salah satu kunci yang bisa digunakan untuk melakukan perualangan.
 		// Blok kode yang terdapat didalam for akan selalu diulangi selama kodisi for terpenuhi.
 

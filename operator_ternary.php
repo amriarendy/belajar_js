@@ -29,6 +29,7 @@
 		ucapan = nilai >= 75? "Selamat anda lulus" : "Silahkan coba lagi";
 		document.writeln("ini dengan ternary operator");
 		document.writeln(`<p>${ucapan}</p>`);
+		
 	</script><br><br>
 </body>
 </html>

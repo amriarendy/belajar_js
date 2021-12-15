@@ -28,7 +28,7 @@
 		// Kata kunci const
 		// Kata kunci let itu seperti kata kunci var, dimana data di variable tersebut bisa diubah-ubah sesuka hati.
 		// Sedangkan kata kunci const berbeda, ketika sebuah variable sudah diisi di variable const, maka variable tersebut tidak bisa diubah lagi valuenya.
-		// Variable sejening ini kadang dibilang juga konstant
+		// Variable sejening ini kadang dibilang juga konstant.
 		// Contoh :
 
 		const application = "Belajar JavaScript Dasar";

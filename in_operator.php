@@ -10,7 +10,7 @@
 		console.info("In Operator");
 
 		// in operator adalah operator yang bisa dilakukan untuk mengecek apakah sebuah property ada di dalam object atau tidak.
-		// jika property tersebut ada di object, maka hasilnya true, sedangkan jika tidak, maka hasilnya false
+		// jika property tersebut ada di object, maka hasilnya true, sedangkan jika tidak, maka hasilnya false.
 		// tidak hanya di object, In juga bisa digunakan untuk mengecek index di array.
 
 		const person = {

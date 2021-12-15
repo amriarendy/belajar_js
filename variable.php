@@ -12,7 +12,7 @@
 		// JavaScript adalah dynamic language, artinya variabe di JavaScript tidak terpaku harus menggunakan satu tipe data, kita bisa mengubah-ubah tipe data variable yang sama.
 
 		// Cara membuat variable gunakan kata kunci awal "var" contoh var fullName;
-		// kemalCase => diawali dengan huruf kecil kemudian suku kata kedua dan selanjutnya menggunakan kapital (Kebiasaan developer JavaSript)
+		// kemalCase => diawali dengan huruf kecil kemudian suku kata kedua dan selanjutnya menggunakan kapital (Kebiasaan developer JavaSript).
 		
 		// Mengunbah Value di Variable gunakan "="
 		var firstName = "Amria";

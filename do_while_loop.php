@@ -9,7 +9,7 @@
 		document.writeln("Untuk operasi console bisa dilihat di inspect>console");
 		console.info("do while loop");
 
-		// Do While Loop
+		// Do While Loop 
 		// do while loop adalah perulangan yang mirip dengan while.
 		// perbedaannya hanya pada pengecekan kondisi
 		// pengecekan kondisi do while loop dilakukan di awal sebelum perulangan, dilakukan sedangkan di do while loop dilakukan setelah perulangan dilakukan.

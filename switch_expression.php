@@ -12,6 +12,7 @@
 		// kadang kita butuh menggunakan kondisi sederhana di if statement, seperti hanya menggunakan perbandingan ==.
 		// switch adalah statement percabangan yang sama dengan if, namun lebih sederhana cara pembuatanya.
 		// kondisi di switch statement hanya untuk perbandingan ==.
+		
 		const nilai = "A";
 
 		document.writeln("<p>- Switch Statement</p>");

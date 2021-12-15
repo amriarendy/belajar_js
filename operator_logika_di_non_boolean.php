@@ -11,10 +11,10 @@
 		// sebelumnya kita sudah tahu bahwa operator logika AND {&&} dan OR (||) digunakan untuk dua data boolean.
 		// namun berbeda di JavaScript, kita bisa menggunakan operator logika AND dan OR untuk tipe data non boolean.
 
-		// Operator OR (||) di non boolean
+		// Operator OR (||) di non boolean.
 
 		// operator logika OR (||), membaca dari kiri ke kanan.
-		// operator ini akan mengambil nilai pertama yang truthy
+		// operator ini akan mengambil nilai pertama yang truthy.
 		// jika tidak satupun yang bernilai truthy, maka yang terakhir yang akan diambil.
 
 		console.info("hello" || ''); // hello
@@ -35,7 +35,7 @@
 
 		// Operator AND (&&) di Non Boolean
 		// operator logika AND (||), membaca dari kiri ke kanan.
-		// operator ini akan mengambil nilai pertama yang falsy
+		// operator ini akan mengambil nilai pertama yang falsy.
 		// kjika tidak ada satupun yang bernilai falsy, maka yang terakhir yang akan diambil.
 
 	</script><br><br>

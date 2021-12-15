@@ -8,7 +8,7 @@
 	<script>
 		document.writeln("Untuk operasi console bisa dilihat di inspect>console");
 		console.info("Operasi Console");
-		// JavaScript memiliki fitur untuk melakukan logging bernama console.
+		// JavaScript memiliki fitur untuk melakukan logging bernama console. 
 		// Loging adalah mekanisme yang biasa dilakukan oleh programmer untuk menampilkan informas. dari aplikasi yang sedang berjalan tanpa harus menunggu alur kerja aplikasi dan juga interaksi user.
 		// Untuk melakukan ini, kita bisa menggunakan fitur Console di JavaScript
 		// Untuk menggunakan console, kita cukup gunakan perintah console di jode JavaScriot
